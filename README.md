@@ -19,7 +19,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 ## Certificate
 - [TensorFlow Developer](https://coursera.org/share/470f8edd46159ab3bf20a6ab81817a11)
 
-# Courses
+## Courses
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 - [Convolutional Neural Network in Tensorflow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
