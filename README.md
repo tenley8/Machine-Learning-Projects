@@ -19,6 +19,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 
 ## Certificate
 - [TensorFlow Developer](https://coursera.org/share/470f8edd46159ab3bf20a6ab81817a11)
+- [AI for Medical Diagnosis](https://coursera.org/share/c4f8673987b62b29ec79c3d907987bd2)
 
 ## Courses
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
