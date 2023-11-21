@@ -19,7 +19,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 
 ## Certificate
 - [TensorFlow Developer](https://coursera.org/share/470f8edd46159ab3bf20a6ab81817a11)
-- [AI for Medical Diagnosis](https://coursera.org/share/c4f8673987b62b29ec79c3d907987bd2)
+- [AI for Medical Diagnosis](https://coursera.org/share/33b86636840fe944df79e16eca654925)
   
 
 ## Courses
