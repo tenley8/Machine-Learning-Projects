@@ -5,7 +5,13 @@ TensorFlow is one of the most in-demand and popular open-source deep learning fr
 
 In this hands-on, four-course Professional Certificate program, you’ll learn the necessary tools to build scalable AI-powered applications with TensorFlow. After finishing this program, you’ll be able to apply your new TensorFlow skills to a wide range of problems and project
 
-## Machine Learning Projects
+### Machine Learning Projects
+- [Stanford University AI in Healthcare](https://github.com/tenley8/Stanford-AI-in-Healthcare/tree/main/5.0%20AI%20in%20Healthcare%20Capstone)
+
+### University of Toronto Data Analytis with Machine Learning
+- [Credit Risk Analysis](https://github.com/tenley8/Machine-Learning-Projects/tree/master/Credit_Risk_Analysis)
+- [Cryptocurrencies](https://github.com/tenley8/Machine-Learning-Projects/tree/master/Cryptocurrencies)
+#### Tensorflow Developer Certificate
 - [1.0 MNIST Fashion Images](https://github.com/tenley8/Tensorflow-Develover-Certification/blob/master/1.0%20MNIST%20Fashion%20Images.ipynb)
 - [1.1 MNIST Handwritting Images](https://github.com/tenley8/Tensorflow-Develover-Certification/blob/master/1.1%20MNIST%20Handwritting%20Images.ipynb)
 - [2.0 Shakespeare Text ChaRNN](https://github.com/tenley8/Tensorflow-Develover-Certification/blob/master/2.0%20Shakespeare%20Text%20CharRNN.ipynb)
